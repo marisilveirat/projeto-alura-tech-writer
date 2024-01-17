@@ -11,7 +11,7 @@ Projeto Alura curso de Tech Writer - Cadastro do chá de bebê no site da iFrald
 • **Passo 1: Acesse o botão "criar meu chá agora" que está no canto superior direito da página da [iFraldas](https://www.ifraldas.com.br/)**
 
 <img src="https://github.com/marisilveirat/projeto-alura-tech-writer/assets/148133489/32798785-95d0-4b37-9679-cc7d7c5bf915" width="400px">
-  
+
 ####
 • **Passo 2: Você será direcionado para uma página de cadastro aonde você deve cadastrar seu e-amil e sua senha**
   ``` 
@@ -41,6 +41,7 @@ A confirmação do seu cadastro chega pelo seu e-mail, mas certifique-se de que 
 ### Então, siga os seguintes passos:
 ####
 **1.1 - Marque a opção "Será somente virtual" e clique "próximo"**
+####
 **1.2 - Preencha os campos com os dados corretos sobre:**
 ####
 * A atual semana de gestação da mamãe
